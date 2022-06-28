@@ -53,7 +53,7 @@ Avec les donnés de l'exercice précédent, produisez les visualisations suivant
 ![bubble_chart](bubble_chart.png)
 
 * Créez une animation d'entrée pour les cercles (r=0 à r=`latitude`)  :dart: **10 points** :dart:
-* Quel est le type d'échelle le plus pertinent à utiliser pour la `precipitation` ? :dart: **5 points** :dart:
+* Quel est le type d'échelle le plus pertinent à utiliser pour la `precipitation` ? Imprimez la réponse dans la console. :dart: **5 points** :dart:
 
  ## Exercice 4 - Web scraping (20 points)
 * Rentrez dans le dossier web-scraping `cd web-scraping`
