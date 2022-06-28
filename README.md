@@ -29,7 +29,7 @@ S'agissant d'un fichier `geojson`, la composante géographique est directement d
 * `precipitation`: précipitation moyenne annuelle  
 * `radiation` : ensoleillement moyen annuel
 * `latitude` : coordonnée sud (_à utiliser dans exercice 3.2_)
-* `longitude`: coordonnée nord 
+* `longitude`: coordonnée est 
 
 Apportez les manipulations suivantes et imprimez les résultats dans la console :
 
